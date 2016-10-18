@@ -1,0 +1,1 @@
+In the above explanation is solid and clear explanation of what the spatial data, Data vaktor and raster data. Spatial data is the data that covers both shp and dbf which form the coordinates of a point and that is the database table. Raster data is data for image memuculkan a pixel on a map. Vector data is two-dimensional data that prior to its use and known as the atlas.
